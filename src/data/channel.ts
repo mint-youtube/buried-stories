@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "🪦",
   category: "공포/미스터리",
   tagline: "흙 속에 잠든 누군가의 마지막 기록",
+  youtubeUrl: "https://youtube.com/channel/UC_GBeJgoHM35dsiqflmVkyg",
   layoutId: "archaeology-grid",
   isLight: false,
   tokens: {
