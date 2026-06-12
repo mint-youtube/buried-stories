@@ -5,7 +5,7 @@ pubDate: 2026-05-21T10:16:00+09:00
 author: ""
 category: ""
 tags: ["자가디시 찬드라 보스", "Jagadish Chandra Bose", "무선 통신", "마르코니", "Marconi", "1894 캘커타", "마이크로파", "60GHz", "묻혀진 발명가", "과학사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=d6QRWvi9JDs"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-05-21-jagadish-chandra-bose-wireless-1894/scene-2_img_2.png"
 draft: false
 ---

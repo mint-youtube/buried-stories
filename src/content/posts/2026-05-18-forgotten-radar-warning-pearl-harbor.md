@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:27:00+09:00
 author: ""
 category: ""
 tags: ["진주만공습", "태평양전쟁", "역사다큐", "실화", "가려진역사", "진주만", "2차세계대전", "역사적사건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=q8xKbcF-nVs"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-05-18-forgotten-radar-warning-pearl-harbor/scene-2_img_2.png"
 draft: false
 ---

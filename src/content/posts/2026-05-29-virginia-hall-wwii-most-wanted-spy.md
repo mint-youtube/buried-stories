@@ -5,7 +5,7 @@ pubDate: 2026-05-29T21:27:00+09:00
 author: ""
 category: ""
 tags: ["버지니아 홀", "Virginia Hall", "OSS 여성 공작원", "SOE 미국인", "2차세계대전 첩보원", "프랑스 레지스탕스", "클라우스 바비", "노르망디 상륙", "잊혀진 영웅", "의족 첩보원"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=rcQXQX2XqJg"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-05-29-virginia-hall-wwii-most-wanted-spy/scene-2_img_2.png"
 draft: false
 ---

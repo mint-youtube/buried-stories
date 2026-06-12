@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:28:00+09:00
 author: ""
 category: ""
 tags: ["냉전", "핵전쟁", "소련", "스타니슬라프 페트로프", "핵경보", "세계를구한남자", "냉전실화", "1983년"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=2fjqdStQ3NY"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-05-18-stanislav-petrov-1983/scene-2_img_2.png"
 draft: false
 ---

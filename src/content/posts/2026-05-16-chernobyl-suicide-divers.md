@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["체르노빌", "체르노빌 2차 폭발", "수증기 폭발", "코리움", "체르노빌 영웅", "핵사고 실화", "아나넨코 베스팔로프 바라노프", "소련 원전 사고"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=BCGQEq1LsH8"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-05-16-chernobyl-suicide-divers/scene-2_img_2.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-05-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["앨리스 볼", "Alice Ball", "한센병 치료", "1915 하와이대", "흑인 여성 화학자", "차이오우그라", "잊혀진 영웅", "과학사", "에틸 에스테르", "여성 과학자"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=q_EBJ8pmJx0"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-05-30-alice-ball-leprosy-treatment-1915-died-24/scene-2_img_2.png"
 draft: false
 ---

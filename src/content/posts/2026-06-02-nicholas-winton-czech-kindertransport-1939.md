@@ -5,7 +5,7 @@ pubDate: 2026-06-02T20:39:00+09:00
 author: ""
 category: ""
 tags: ["니콜라스 윈튼", "Nicholas Winton", "키더트랜스포트", "체코슬로바키아 어린이 구출", "1939년 프라하", "홀로코스트 영웅", "BBC That's Life", "잊혀진 영웅", "유대인 어린이", "669명"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=poPf-XnONjU"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-06-02-nicholas-winton-czech-kindertransport-1939/scene-2_img_2.png"
 draft: false
 ---

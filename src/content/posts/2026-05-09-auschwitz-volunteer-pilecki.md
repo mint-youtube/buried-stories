@@ -5,7 +5,7 @@ pubDate: 2026-05-10T09:00:00+09:00
 author: ""
 category: ""
 tags: ["비톨트 필레츠키", "아우슈비츠 자원 수감", "홀로코스트 영웅", "폴란드 저항군", "나치 수용소 탈출", "폴란드 공산정권 처형", "2차 세계대전 실화", "묻혀진 이야기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4OUxOhgocUo"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-05-09-auschwitz-volunteer-pilecki/intro_img_2.png"
 draft: false
 ---

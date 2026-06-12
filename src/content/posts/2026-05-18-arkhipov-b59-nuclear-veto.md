@@ -5,7 +5,7 @@ pubDate: 2026-05-18T20:41:00+09:00
 author: ""
 category: ""
 tags: ["아르히포프", "Arkhipov", "쿠바미사일위기", "B59잠수함", "핵전쟁", "냉전사", "잊혀진영웅"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=2c_6R2HfCPE"
 heroImage: ""
 draft: false
 ---
