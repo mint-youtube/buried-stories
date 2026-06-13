@@ -5,7 +5,7 @@ pubDate: 2026-06-13T11:08:00+09:00
 author: ""
 category: ""
 tags: ["라듐걸스", "라듐페인트피해", "시계공장라듐", "직업병역사", "노동법역사", "US라듐코퍼레이션", "그레이스프라이어", "방사선직업병", "노동자권리역사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=PvNrzOQXXsI"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-06-13-radium-girls-1917-watch-painters/scene-2_img_2.png"
 draft: false
 ---
