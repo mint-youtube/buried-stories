@@ -5,7 +5,7 @@ pubDate: 2026-06-23T18:34:00+09:00
 author: ""
 category: ""
 tags: ["리제 마이트너", "Lise Meitner", "핵분열 발견", "1944 노벨 화학상", "오토 한", "마이트너륨", "베를린 대학", "여성 물리학자", "잊혀진 영웅", "스웨덴 망명"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=_SunPqnQ1GI"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-06-23-lise-meitner-nuclear-fission-no-nobel-1944/scene-2_img_2.png"
 draft: false
 ---
