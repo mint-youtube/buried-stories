@@ -5,7 +5,7 @@ pubDate: 2026-06-24T17:25:00+09:00
 author: ""
 category: ""
 tags: ["데스몬드 도스", "Desmond Doss", "오키나와 전투", "마에다 절벽", "양심적 거부자", "명예훈장", "핵소 리지", "2차세계대전 위생병", "안식교 군인", "잊혀진 영웅"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ppD30eubUwY"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-06-24-desmond-doss-okinawa-75-saved-1945/scene-2_img_2.png"
 draft: false
 ---
