@@ -5,7 +5,7 @@ pubDate: 2026-06-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["스기하라 지우네", "비자 6000장", "잊혀진 영웅", "홀로코스트 구원자", "제2차세계대전", "리투아니아 카우나스", "의인", "실화 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=V2549EcMzs8"
 heroImage: ""
 draft: false
 ---
