@@ -5,7 +5,7 @@ pubDate: 2026-06-28T09:00:00+09:00
 author: ""
 category: ""
 tags: ["이레나 센들레르", "Irena Sendler", "바르샤바 게토", "홀로코스트 영웅", "제고타", "야드 바셈 열방의 의인", "유리병 명단", "2500명 아동 구출", "폴란드 사회복지사", "잊혀진 영웅"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=2tXcf3U5F9U"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-06-28-irena-sendler-warsaw-2500-children-1942/scene-2_img_2.png"
 draft: false
 ---
