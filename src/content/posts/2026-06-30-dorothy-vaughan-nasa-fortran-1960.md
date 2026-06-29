@@ -5,7 +5,7 @@ pubDate: 2026-06-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["도로시 본", "Dorothy Vaughan", "히든 피겨스", "NASA 흑인 여성", "포트란", "랭글리 연구소", "캐서린 존슨", "메리 잭슨", "인간 컴퓨터", "잊혀진 영웅"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Ap5PhY4VR0I"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-06-30-dorothy-vaughan-nasa-fortran-1960/scene-2_img_2.png"
 draft: false
 ---
