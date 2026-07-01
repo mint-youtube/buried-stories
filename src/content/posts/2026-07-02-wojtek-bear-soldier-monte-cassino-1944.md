@@ -5,7 +5,7 @@ pubDate: 2026-07-02T09:00:00+09:00
 author: ""
 category: ""
 tags: ["보이텍", "Wojtek", "폴란드군 곰", "몬테카시노 전투", "2차세계대전 곰", "에든버러 동물원", "잊혀진 영웅", "폴란드 망명 정부군", "제22 수송중대", "곰 이등병"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=XgjqaxLiVoI"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-02-wojtek-bear-soldier-monte-cassino-1944/scene-2_img_2.png"
 draft: false
 ---
