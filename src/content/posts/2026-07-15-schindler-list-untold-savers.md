@@ -5,7 +5,7 @@ pubDate: 2026-07-15T13:02:00+09:00
 author: ""
 category: ""
 tags: ["이자크 슈테른", "쉰들러 리스트", "명단의 진짜 저자", "잊혀진 영웅", "홀로코스트 구원자", "제2차세계대전", "크라쿠프 게토", "실화 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=dT16f2TA8lE"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-15-schindler-list-untold-savers/scene-2_img_2.png"
 draft: false
 ---
