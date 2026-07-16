@@ -5,7 +5,7 @@ pubDate: 2026-07-16T12:36:00+09:00
 author: ""
 category: ""
 tags: ["휴 톰슨", "미라이", "잊혀진 영웅", "베트남 전쟁", "군인의 양심", "미군 조종사", "소년의 훈장", "실화 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Xiso3qSbRd8"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-16-my-lai-helicopter-pilot/scene-2_img_2.png"
 draft: false
 ---
