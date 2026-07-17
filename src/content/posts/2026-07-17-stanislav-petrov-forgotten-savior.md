@@ -5,7 +5,7 @@ pubDate: 2026-07-17T22:54:00+09:00
 author: ""
 category: ""
 tags: ["요시다 마사오", "후쿠시마 원전", "후쿠시마 50", "원전 사고", "잊혀진 영웅", "명령 불복종", "일본 재난", "실화 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=u10PGyYcG54"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-17-stanislav-petrov-forgotten-savior/scene-2_img_2.png"
 draft: false
 ---
