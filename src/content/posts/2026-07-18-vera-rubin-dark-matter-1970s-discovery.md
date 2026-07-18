@@ -5,7 +5,7 @@ pubDate: 2026-07-18T23:25:00+09:00
 author: ""
 category: ""
 tags: ["베라 루빈", "암흑물질", "은하 회전 곡선", "천문학", "잊혀진 영웅", "여성 과학자", "노벨상", "우주론"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=aDQC9ZHqGJ0"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-18-vera-rubin-dark-matter-1970s-discovery/scene-2_img_2.png"
 draft: false
 ---
