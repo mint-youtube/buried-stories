@@ -5,7 +5,7 @@ pubDate: 2026-07-19T21:43:00+09:00
 author: ""
 category: ""
 tags: ["프랭크 윌콕스", "해안경비대", "잊혀진 영웅", "제2차 세계대전", "인종분리", "700명 구조", "뒤늦은 훈장", "실화 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Oe-3dfPKJz8"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-19-frank-wilcox-coast-guard-1944-rescue/scene-2_img_2.png"
 draft: false
 ---
