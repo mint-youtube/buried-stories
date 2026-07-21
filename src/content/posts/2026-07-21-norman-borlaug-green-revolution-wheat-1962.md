@@ -5,7 +5,7 @@ pubDate: 2026-07-21T11:52:00+09:00
 author: ""
 category: ""
 tags: ["노먼 볼로그", "녹색혁명", "잊혀진 영웅", "기아 문제", "밀 품종개량", "노벨평화상", "농업 혁명", "실화 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=3UkkaCfMTHQ"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-21-norman-borlaug-green-revolution-wheat-1962/scene-2_img_5.png"
 draft: false
 ---
