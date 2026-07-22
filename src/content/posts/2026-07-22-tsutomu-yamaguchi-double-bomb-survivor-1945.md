@@ -5,7 +5,7 @@ pubDate: 2026-07-22T09:20:00+09:00
 author: ""
 category: ""
 tags: ["야마구치 츠토무", "이중피폭", "히로시마 나가사키", "원폭 생존자", "잊혀진 이야기", "제2차 세계대전", "반핵", "실화 다큐"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mQJH_yZWOes"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-22-tsutomu-yamaguchi-double-bomb-survivor-1945/scene-2_img_3.png"
 draft: false
 ---
