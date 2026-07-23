@@ -5,7 +5,7 @@ pubDate: 2026-07-24T09:00:00+09:00
 author: ""
 category: ""
 tags: ["에미 뇌터", "Emmy Noether", "뇌터 정리", "1915 수학", "다비드 힐베르트", "괴팅겐 대학교", "아인슈타인 추모", "여성 수학자", "보존 법칙", "잊혀진 영웅"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=imgGAsbwryw"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-24-emmy-noether-symmetry-theorem-1915/scene-2_img_4.png"
 draft: false
 ---
