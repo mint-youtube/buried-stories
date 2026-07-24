@@ -5,7 +5,7 @@ pubDate: 2026-07-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["731 시설", "만주 비밀 시설", "숨겨진 영웅", "군의관 양심", "제2차세계대전 실화", "기록이 지운 사람", "무명영웅"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=MQPltcInm68"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-25-stanislaw-skarzynski-warsaw-radio-1944/scene-2_img_4.png"
 draft: false
 ---
