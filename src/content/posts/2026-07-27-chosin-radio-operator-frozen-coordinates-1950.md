@@ -5,7 +5,7 @@ pubDate: 2026-07-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["장진호 전투", "한국전쟁 통신병", "흥남 철수", "숨겨진 영웅", "무명용사", "장진호 후퇴", "한국전쟁 실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=yggT0iuqqkg"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-27-chosin-radio-operator-frozen-coordinates-1950/scene-2_img_5.png"
 draft: false
 ---
