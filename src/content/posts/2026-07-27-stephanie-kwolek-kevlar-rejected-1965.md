@@ -5,7 +5,7 @@ pubDate: 2026-07-27T10:10:00+09:00
 author: ""
 category: ""
 tags: ["스테파니 퀘크", "케블라 발명", "여성 과학자", "방탄복 발명", "묻혀진 발명가", "특허 권리", "케블라 역사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=2RPrymThGek"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-27-stephanie-kwolek-kevlar-rejected-1965/scene-2_img_2.png"
 draft: false
 ---
