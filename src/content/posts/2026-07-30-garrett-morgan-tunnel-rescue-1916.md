@@ -5,7 +5,7 @@ pubDate: 2026-07-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["개릿 모건", "안전 두건", "방독면 발명", "이리 호수 터널 참사", "잊혀진 영웅", "묻혀진 이야기", "흑인 발명가", "교통 신호기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=8irSPxdSQjg"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-30-garrett-morgan-tunnel-rescue-1916/scene-2_img_5.png"
 draft: false
 ---
