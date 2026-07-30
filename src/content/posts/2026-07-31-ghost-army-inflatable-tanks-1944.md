@@ -5,7 +5,7 @@ pubDate: 2026-07-31T09:00:00+09:00
 author: ""
 category: ""
 tags: ["유령 부대", "제23본부 특수부대", "고무 탱크", "기만 작전", "라인강 작전", "2차 세계대전", "묻혀진 이야기", "잊혀진 영웅"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=vtTaTv_hXuE"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-07-31-ghost-army-inflatable-tanks-1944/scene-2_img_2.png"
 draft: false
 ---
