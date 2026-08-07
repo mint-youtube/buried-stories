@@ -5,7 +5,7 @@ pubDate: 2026-08-07T23:18:00+09:00
 author: ""
 category: ""
 tags: ["클레어패터슨", "지구의나이", "납오염", "유연휘발유", "과학사", "환경운동", "잊혀진영웅", "혈중납"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=BvsXD5BYUkI"
 heroImage: "https://assets.dailynote.blog/buried-stories/2026-08-07-clair-patterson-lead-earth-age/scene-2_img_2.png"
 draft: false
 ---
